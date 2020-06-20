@@ -2,7 +2,7 @@
 
 #### Creación, eliminación, actualización de un listado de productos realizado con Svelte, aplicando persistencia de datos por variables
 
-* Sitio  --> [Pagina Web](https://promartingranja.github.io/crud-svelte-lista-productos/) *
+* Sitio  --> [Pagina Web](https://devmartingranja.github.io/crud-svelte-lista-productos/) *
 
 ---
 
@@ -11,7 +11,7 @@
 Descargar el repositorio:
 
 ```bash
-git clone https://github.com/promartingranja/crud-svelte-lista-productos.git
+git clone https://github.com/devmartingranja/crud-svelte-lista-productos.git
 ```
 
 Luego, instale las dependencias:
