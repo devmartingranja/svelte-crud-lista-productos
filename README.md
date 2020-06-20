@@ -20,7 +20,7 @@ Luego, instale las dependencias:
 npm install
 ```
 
-Dependencias adicionales que se instalaran:
+Dependencias adicionales que se utilizaron:
 
 - Noty (https://ned.im/noty/)
 - UUID (https://www.npmjs.com/package/uuid)
