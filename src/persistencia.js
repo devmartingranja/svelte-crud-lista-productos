@@ -17,7 +17,7 @@ export default [
     },
     {
       id: uuidv4(),
-      nombre: "Mesa gamer",
+      nombre: "Table gamer",
       descripcion: "Mesa Plataform",
       categoria: 2,
       imgURL: "https://i.pinimg.com/originals/f6/55/87/f655875bfd2dd91d1157cb3d510d3890.png"
