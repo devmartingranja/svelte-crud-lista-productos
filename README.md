@@ -2,7 +2,7 @@
 
 #### Creación, eliminación, actualización de un listado de productos realizado con Svelte, aplicando persistencia de datos por variables
 
-* sitio  --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
+* Sitio  --> [Pagina Web](https://promartingranja.github.io/crud-svelte-lista-productos/) *
 
 ---
 
