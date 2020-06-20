@@ -6,7 +6,7 @@ export default [
       nombre: "HP Pavilion Notebook",
       descripcion: "HP Laptop",
       categoria: 0,
-      imgURL: "https://co-media.hptiendaenlinea.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/4/P/4PE56LA-3_T1562703405.png"
+      imgURL: "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQeP0f7-WEBroa60AByR4EDEWLTvHHTYwcFMA&usqp=CAU"
     },
     {
       id: uuidv4(),
