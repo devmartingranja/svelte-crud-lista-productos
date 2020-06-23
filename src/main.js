@@ -6,5 +6,6 @@ const app = new App({
 		name: 'dev.martin CRUD Svelte v1.0'		
 	}
 });
+
  // no es necesario pero se lo deja
 export default app;

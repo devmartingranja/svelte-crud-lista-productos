@@ -1,16 +1,11 @@
 <script>
   import { vec } from "../tools.js";
   import { createEventDispatcher } from "svelte";
+  import ProductosClass from "../productoClass.js";
   export let nameApp;
 
   const dispatch = createEventDispatcher();
-  export let producto = {
-    id: "",
-    nombre: "",
-    descripcion: "",
-    categoria: 0,
-    imgURL: ""
-  };
+  export let producto = new ProductosClass();
 
   const clearProducto = { ...producto };
 

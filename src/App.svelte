@@ -4,17 +4,11 @@
   import List from "./components/List.svelte";
   import {notySuccess} from "./tools"
   import data from "./persistencia.js"
+  import ProductoClass from "./productoClass.js"
   export let name;  
 
   $: productos = data
-
-  $: producto = {
-    id: "",
-    nombre: "",
-    descripcion: "",
-    categoria: 0,
-    imgURL: ""
-  };
+  $: producto = new ProductoClass();
 
   const productosAdd = event => {
     const auxNewProducto = {
