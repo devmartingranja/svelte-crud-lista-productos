@@ -40,7 +40,7 @@
 
         <div class="card">
           <div class="card-header">
-            <h2>LISTA DE PRODUCTOS -------------- </h2>
+            <h2>LISTA DE PRODUCTOS</h2>
           </div>
           <div class="card-body bg-light">
             <List bind:productos bind:producto />
