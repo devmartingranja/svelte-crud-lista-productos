@@ -1,5 +1,5 @@
-# CRUD - SVELTE - LISTA DE PRODUCTOS 
-
+# CRUD - SVELTE - LISTA DE PRODUCTOS  --- 
+ 
 #### Creación, eliminación, actualización de un listado de productos realizado con Svelte, aplicando persistencia de datos por variables
 
 * Sitio  --> [Pagina Web](https://devmartingranja.github.io/crud-svelte-lista-productos/) *
